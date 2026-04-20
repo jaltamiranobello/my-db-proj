@@ -3,4 +3,6 @@ USE mydb;
 INSERT INTO items (name, description)
 VALUES
   ('Item 1', 'First item'),
-  ('Item 2', 'Second item');
+  ('Item 2', 'Second item'),
+  ('Item 3', 'Third item'),
+  ('Item 4', 'Fourth item');
